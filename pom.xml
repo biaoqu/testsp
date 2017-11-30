@@ -6,7 +6,7 @@
 	<artifactId>helloword</artifactId>
 	<name>Helloword</name>
 	<packaging>war</packaging>
-	<version></version>
+	<version>1.0.0-BUILD-SNAPSHOT</version>
 	<properties>
 		<java-version>1.6</java-version>
 		<org.springframework-version>3.1.1.RELEASE</org.springframework-version>
@@ -118,6 +118,8 @@
 		</dependency>        
 	</dependencies>
     <build>
+	<finalName>myname</finalName>
+	
         <plugins>
             <plugin>
                 <artifactId>maven-eclipse-plugin</artifactId>
