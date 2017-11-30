@@ -1,0 +1,14 @@
+0:0:0:0:0:0:0:1 - - [14/Nov/2017:09:46:47 +0800] "GET /helloword HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [14/Nov/2017:09:46:49 +0800] "GET /helloword/ HTTP/1.1" 200 157 http-bio-8080-exec-3 1566
+0:0:0:0:0:0:0:1 - - [14/Nov/2017:09:46:49 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-4 0
+0:0:0:0:0:0:0:1 - - [14/Nov/2017:09:50:46 +0800] "GET /helloword/ HTTP/1.1" 200 157 http-bio-8080-exec-1 186
+0:0:0:0:0:0:0:1 - - [14/Nov/2017:09:50:48 +0800] "GET /helloword/ HTTP/1.1" 200 157 http-bio-8080-exec-5 6
+0:0:0:0:0:0:0:1 - - [14/Nov/2017:09:50:49 +0800] "GET /helloword/ HTTP/1.1" 200 157 http-bio-8080-exec-6 3
+0:0:0:0:0:0:0:1 - - [14/Nov/2017:09:50:49 +0800] "GET /helloword/ HTTP/1.1" 200 157 http-bio-8080-exec-8 2
+0:0:0:0:0:0:0:1 - - [14/Nov/2017:09:50:49 +0800] "GET /helloword/ HTTP/1.1" 200 157 http-bio-8080-exec-9 3
+0:0:0:0:0:0:0:1 - - [14/Nov/2017:09:50:50 +0800] "GET /helloword/ HTTP/1.1" 200 157 http-bio-8080-exec-10 3
+0:0:0:0:0:0:0:1 - - [14/Nov/2017:09:50:50 +0800] "GET /helloword/ HTTP/1.1" 200 157 http-bio-8080-exec-10 3
+0:0:0:0:0:0:0:1 - - [14/Nov/2017:09:51:41 +0800] "GET /helloword/ HTTP/1.1" 200 177 http-bio-8080-exec-6 1124
+0:0:0:0:0:0:0:1 - - [14/Nov/2017:09:56:10 +0800] "GET /helloword/ HTTP/1.1" 200 177 http-bio-8080-exec-1 151
+0:0:0:0:0:0:0:1 - - [14/Nov/2017:09:56:18 +0800] "GET /helloword/hi HTTP/1.1" 200 12 http-bio-8080-exec-2 17
+0:0:0:0:0:0:0:1 - - [14/Nov/2017:10:12:55 +0800] "GET /helloword/yes HTTP/1.1" 200 135 http-bio-8080-exec-1 1550
